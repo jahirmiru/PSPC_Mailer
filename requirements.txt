@@ -1,0 +1,5 @@
+customtkinter>=6.0.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+tkinterweb>=4.25.0
+tkhtmlview>=0.3.2
